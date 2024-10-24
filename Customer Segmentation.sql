@@ -1,5 +1,5 @@
--- create database Customer_Segmentation;
--- select * from dataset_superstore;
+
+select * from dataset_superstore;
 
 -- RFM analysis
 WITH rfm AS (
